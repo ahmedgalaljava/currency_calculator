@@ -7,7 +7,7 @@
 # API Calling URL Example :
 #http://localhost:8080/ConvertorApp/api/calculate/usd/inr/2
 
-# The API depend on mysql DB you will need to import the currency_currency_rate.sql first 
+# The API depend on mysql DB you will need to import the src\main\resources\sql\currency_currency_rate.sql first 
 
 
 ### Reference Documentation

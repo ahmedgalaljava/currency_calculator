@@ -9,6 +9,8 @@
 
 # The API depend on mysql DB you will need to import the src\main\resources\sql\currency_currency_rate.sql first 
 
+# To start the server you need firt to use mvn clean and intall to build the code then start the the API by run the CurrencyCalculatorApplication.java file .
+
 
 ### Reference Documentation
 For further reference, please consider the following sections:
